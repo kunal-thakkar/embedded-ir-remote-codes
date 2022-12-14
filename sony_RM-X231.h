@@ -1,0 +1,22 @@
+//Protocol=SONY  (12 bits)
+//each signal sent 3 times and after send 0x5121 three times
+#define SOURCE		0x3121
+#define SOUND		0x421
+#define MODE		0x7121
+#define BACK		0x6821
+#define SEARCH		0x7221
+#define UP			0x6621
+#define LEFT		0x5621
+#define ENTER		0x1D21
+#define RIGHT		0x1621
+#define DOWN		0x2621
+#define PTY			0x7721
+#define DSPL		0xA21
+#define KEY_ONE		0x21
+#define KEY_TWO		0x4021
+#define KEY_THREE	0x2021
+#define KEY_FOUR	0x6021
+#define KEY_FIVE	0x1021
+#define KEY_SIX		0x5021
+#define VOL_PLUS	0x2421
+#define VOL_MINUS	0x6421
